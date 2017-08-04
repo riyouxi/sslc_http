@@ -7,6 +7,7 @@ package com.comm.http;
 public class TestLib {
 
     public static int testSys(){
+        int i =1;
         return 1+6;
     }
 }
